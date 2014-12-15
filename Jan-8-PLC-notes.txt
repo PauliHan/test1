@@ -1,0 +1,17 @@
+shelby CD phase 5 delayed to Feb, 11/14 (need to close Samsung beta)
+	Jan 16th, dry run 9-12 AM
+	TSMC second tool Jan 10th
+Shelby film phase 3B: Feb 5th 8-11AM
+	IRSE integration on films (illuminators are good now:tighter alignment spec 30arcsec)
+	need URD/wafer for IRSE
+	WLR FPGA CCD board
+	SWE sMCB board upgrade
+
+Shelby CD:
+	Intel: PM in progress (matching SCC408 with backup illuminator)
+	Hynix: 
+
+
+	Rev 5 is AOI sensitive.
+
+SpectraFilm LD 10xxx: 
